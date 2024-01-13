@@ -1,5 +1,6 @@
-def atm():
+# Basic working of an ATM 
 
+def atm():
 
     import random
     import datetime
@@ -12,9 +13,6 @@ def atm():
     c = input('Enter Your User ID : ')
     ap = input('Enter Your Name : ')
     print('Welcome', ap)
-
-
-
 
     balance = 0
      
@@ -29,9 +27,6 @@ def atm():
 
     while True:                        
         ch = int(input())
-
-
-                        
         if ch == 1:
             print('\t','\t','Cash Deposite')
             print('\n')
