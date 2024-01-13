@@ -1,4 +1,4 @@
-# Basic working of an ATM 
+# Basic working of an ATM on Python
 
 def atm():
 
