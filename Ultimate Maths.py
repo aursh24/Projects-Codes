@@ -1,3 +1,5 @@
+# Basic Calci with some more features
+
 print('''Options Present :-
     for add type ------------- "ad()"
     for subtract type -------- "sb()"
