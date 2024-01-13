@@ -1,5 +1,6 @@
-#importing turtle module
+# Pong Game
 
+#importing turtle module
 import turtle
 
 #for icon
