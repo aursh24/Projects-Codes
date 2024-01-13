@@ -1,3 +1,5 @@
+# Code to Check if the given Year is a Leap Year or Not
+
 while True:
     n=int(input('Enter a year'))
     if n%100==0:
